@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-04)
+
+<section class="features">
+
+### Features
+
+-   [`1bbed39`](https://github.com/stdlib-js/stdlib/commit/1bbed393dae610baf331226bed727561839a33a9) - add protocol support to `stats/base/range` [(#5779)](https://github.com/stdlib-js/stdlib/pull/5779)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5679](https://github.com/stdlib-js/stdlib/issues/5679)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`1bbed39`](https://github.com/stdlib-js/stdlib/commit/1bbed393dae610baf331226bed727561839a33a9) - **feat:** add protocol support to `stats/base/range` [(#5779)](https://github.com/stdlib-js/stdlib/pull/5779) _(by Jalaj Kumar, Athan Reines, stdlib-bot, Gururaj Gurram)_
 -   [`63eeda1`](https://github.com/stdlib-js/stdlib/commit/63eeda110c5f6ff1bea1d99281b147ba92ec5377) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4c944f3`](https://github.com/stdlib-js/stdlib/commit/4c944f3a98f5f196cc909a5d380978e66da79faf) - **refactor:** update paths _(by Aayush Khanna)_
 
@@ -25,9 +48,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
+-   Gururaj Gurram
+-   Jalaj Kumar
 
 </section>
 
