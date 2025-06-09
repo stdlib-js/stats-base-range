@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`955aee8`](https://github.com/stdlib-js/stdlib/commit/955aee86dd40a98dc992ce091f17f0a2c6136b75) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`8853274`](https://github.com/stdlib-js/stdlib/commit/885327441daddf70c02a0ca51925c960993fc4ce) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`1bbed39`](https://github.com/stdlib-js/stdlib/commit/1bbed393dae610baf331226bed727561839a33a9) - **feat:** add protocol support to `stats/base/range` [(#5779)](https://github.com/stdlib-js/stdlib/pull/5779) _(by Jalaj Kumar, Athan Reines, stdlib-bot, Gururaj Gurram)_
 -   [`63eeda1`](https://github.com/stdlib-js/stdlib/commit/63eeda110c5f6ff1bea1d99281b147ba92ec5377) - **refactor:** update paths _(by Aayush Khanna)_
